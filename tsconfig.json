@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "paths": {
+      "*": ["./src/*"]
+    },
     "outDir": "./dist/",
     /*
       Подсвечивает все места где не указан тип,
