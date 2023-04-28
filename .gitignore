@@ -5,7 +5,7 @@
 /node_modules
 
 # IDEs and editors
-/.idea
+.idea
 
 # System Files
 .DS_Store
